@@ -22,7 +22,7 @@
 		<ApplicationTitle>EconOwl</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.econowl</ApplicationId>
+		<ApplicationId>com.cleverwing.econowl</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
