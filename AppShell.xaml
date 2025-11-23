@@ -6,6 +6,10 @@
     xmlns:local="clr-namespace:EconOwl"
     Title="EconOwl">
 
+    <FlyoutItem>
+        
+        
+    </FlyoutItem>
     <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
